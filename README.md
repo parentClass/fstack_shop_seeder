@@ -49,8 +49,9 @@ A step by step series of examples that tell you how to get this project running
 
 Ensure that databases are running properly and accordingly
 
-1. Go the project directory
-2. ```py main.py```
+1. Open up a terminal or command prompt
+2. Go the project directory
+3. Run the script by typing ```py main.py```
 
 ### Packages
 
